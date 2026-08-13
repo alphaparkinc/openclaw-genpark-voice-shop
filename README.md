@@ -6,15 +6,14 @@
 
 # genpark-voice-shop
 
-Welcome to the **genpark-voice-shop** module for the **GenPark/OpenClaw** ecosystem! 馃殌
+Welcome to the **genpark-voice-shop** module for the **GenPark/OpenClaw** ecosystem! 
 
 This skill provides capabilities for highly efficient contextual routing by LLMs. It exposes a standardized "SKILL.md" file along with structured directories.
 
-## 馃洜锔?Installation & Usage
+## ?Installation & Usage
 Clone this repository into your agent framework's "skills/" directory.
 
 ```bash
 cd your-agent-workspace/skills
 git clone https://github.com/alphaparkinc/openclaw-genpark-voice-shop.git
 ```
-
